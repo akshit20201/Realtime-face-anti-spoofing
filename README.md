@@ -56,12 +56,4 @@ Uneven skin texture
 Natural shadows
 → detected as REAL
 
-🖥️ Project Structure
-realtime-face-anti-spoofing/
-│
-├── main.py                  # Main execution file
-├── README.md                # Project documentation
-├── requirements.txt         # Python dependencies
-│
-└── haarcascade/
-    └── haarcascade_frontalface_default.xml
+
